@@ -1,5 +1,3 @@
-# I'm Jamshiya PM
-
 <div align="center">
   <img src="https://github.com/Jamshiya-Pm/Portfolio/blob/main/images/JAMSHIYA%20PM%20(1).png" alt="Mobile App Developer" />
 </div>
