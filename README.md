@@ -90,7 +90,7 @@ Displays structured catalog with detailed descriptions and visuals
 - 💼 LinkedIn: [linkedin.com/in/jamshiya-pm](https://linkedin.com/in/jamshiya-pm)
 - 📱 Phone: +918086917818
 - 🌐 CV :https://drive.google.com/file/d/1MuklSbrN930C0zy13ztb9L4yTht6YKOb/view?usp=sharing
----
+--
 
 <div align="center">
   <i>Thanks for visiting my profile! Feel free to connect with me for collaborations or discussions.</i>
