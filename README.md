@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Mobile Application Developer with 2+ years of experience specializing in Flutter and cross-platform development. I focus on creating enterprise-grade solutions that make a difference. Currently working at Team Thai, I've successfully delivered multiple applications serving thousands of users.
+I'm a passionate Mobile Application Developer with 3+ years of experience specializing in Flutter and cross-platform development. I focus on creating enterprise-grade solutions that make a difference. Currently working at DThree Digital Data Dimensions Bahrain, I've successfully delivered multiple applications serving thousands of users.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jamshiya-pm)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green.svg?style=for-the-badge&logo=firefox)](https://jamshiya-pm.github.io/Portfolio/)
