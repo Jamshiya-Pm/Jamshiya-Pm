@@ -30,6 +30,32 @@ I'm a passionate Mobile Application Developer with 3+ years of experience specia
 - Comprehensive business analytics and reporting
 - Streamlined sales process automation
 
+Queue Management System (Hospitals / Banks / Offices)
+Enterprise queue token management system for managing customer flow in service environments
+Tech Stack: Flutter, ASP.NET Web API, C#, SQL Server
+Features token generation, queue display, and real-time service management
+Queue Calling Pad Application
+Multi-platform queue calling system for service counters to call and manage tokens
+Tech Stack: Flutter, Java, ASP.NET Web API, C#, SQL Server
+Supports synchronized real-time calling across multiple devices
+HRMS (Human Resource Management System)
+Complete HR management solution for employee attendance, leave, payroll, and HR operations
+Tech Stack: Flutter, ASP.NET Web API, C#, SQL Server
+Automates HR workflows and employee lifecycle management
+QMS-Smart
+Smart queue management system designed for small-scale businesses and POS devices
+Tech Stack: Flutter, Dart
+Includes token printing, queue calling, and WiFi-based device communication
+RFID Tracking System
+RFID-based inventory and asset tracking system for scanning and managing products in real time
+Tech Stack: Java
+Built for supermarkets and warehouse stock auditing and tracking
+Military Museum App
+Informational mobile application showcasing military aircraft, jets, and defense equipment
+Tech Stack: Flutter, Dart
+Displays structured catalog with detailed descriptions and visuals
+
+
 ## 💻 Tech Stack
 
 ### Mobile Development
