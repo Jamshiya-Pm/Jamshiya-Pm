@@ -103,7 +103,7 @@ I'm a passionate Mobile Application Developer with 3+ years of experience specia
 - 🌐 Portfolio: [jamshiya-pm.github.io/Portfolio](https://jamshiya-pm.github.io/Portfolio/)
 - 💼 LinkedIn: [linkedin.com/in/jamshiya-pm](https://linkedin.com/in/jamshiya-pm)
 - 📱 Phone: +918086917818
-- 🌐 CV : https://drive.google.com/file/d/1q5XWynbnFTZcW4Xyup6h9fTy-PbZbnYv/view?usp=sharing
+- 🌐 CV : https://drive.google.com/file/d/1wg4EbDJXrgRgH-LBXh_n4ZbGOrb1Tv3p/view?usp=sharing
 
 <div align="center">
   <i>Thanks for visiting my profile! Feel free to connect with me for collaborations or discussions.</i>
